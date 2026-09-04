@@ -1,0 +1,8 @@
+openai
+transformers
+accelerate
+sentencepiece
+sacremoses
+huggingface_hub
+gradio
+python-dotenv
